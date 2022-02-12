@@ -1,6 +1,6 @@
 拉库地址
 ```
-ql repo https://hub.fastgit.xyz/6x111111/by.git "jd_|jx_|jdCookie|cks_|tasks_|scripts_" "activity|backup" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JD" "main"
+ql repo https://hub.fastgit.xyz/6x111111/by.git "jd_|jx_|jdCookie|cks_|tasks_|scripts_|ec_" "activity|backup" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JD" "main"
 ```
 curtinlv关注入会
 ```
