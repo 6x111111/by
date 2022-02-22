@@ -1,0 +1,498 @@
+[
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "009e9823f3665978129ccf5d3c7141fcd6cb07bd",
+    "size": 0,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/.github?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/tree/master/.github",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/trees/009e9823f3665978129ccf5d3c7141fcd6cb07bd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/trees/009e9823f3665978129ccf5d3c7141fcd6cb07bd",
+      "html": "https://github.com/spiritLHL/dependence_scripts/tree/master/.github"
+    }
+  },
+  {
+    "name": "JDJRValidator_Aaron.js",
+    "path": "JDJRValidator_Aaron.js",
+    "sha": "52d81f3864f0bdafc68ccd04d5b154b614e5d389",
+    "size": 15216,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/JDJRValidator_Aaron.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/JDJRValidator_Aaron.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/52d81f3864f0bdafc68ccd04d5b154b614e5d389",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/JDJRValidator_Aaron.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/JDJRValidator_Aaron.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/52d81f3864f0bdafc68ccd04d5b154b614e5d389",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/JDJRValidator_Aaron.js"
+    }
+  },
+  {
+    "name": "JDJRValidator_Pure.js",
+    "path": "JDJRValidator_Pure.js",
+    "sha": "a9309692cd4ebb3089e477f99cbed1c335b717a3",
+    "size": 14642,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/JDJRValidator_Pure.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/JDJRValidator_Pure.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/a9309692cd4ebb3089e477f99cbed1c335b717a3",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/JDJRValidator_Pure.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/JDJRValidator_Pure.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/a9309692cd4ebb3089e477f99cbed1c335b717a3",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/JDJRValidator_Pure.js"
+    }
+  },
+  {
+    "name": "JDJRValidator_Smiek.js",
+    "path": "JDJRValidator_Smiek.js",
+    "sha": "409548e65f55e0ec16142b88ebccebcf5107c2c7",
+    "size": 15113,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/JDJRValidator_Smiek.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/JDJRValidator_Smiek.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/409548e65f55e0ec16142b88ebccebcf5107c2c7",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/JDJRValidator_Smiek.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/JDJRValidator_Smiek.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/409548e65f55e0ec16142b88ebccebcf5107c2c7",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/JDJRValidator_Smiek.js"
+    }
+  },
+  {
+    "name": "JDSignValidator.js",
+    "path": "JDSignValidator.js",
+    "sha": "4b0f977ecfd0fcd8961fdc128f6862a44a2e5a68",
+    "size": 85818,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/JDSignValidator.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/JDSignValidator.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/4b0f977ecfd0fcd8961fdc128f6862a44a2e5a68",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/JDSignValidator.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/JDSignValidator.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/4b0f977ecfd0fcd8961fdc128f6862a44a2e5a68",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/JDSignValidator.js"
+    }
+  },
+  {
+    "name": "JS_USER_AGENTS.js",
+    "path": "JS_USER_AGENTS.js",
+    "sha": "453e4d7879fe4f50cdd03933ae8a2500b84afc29",
+    "size": 41207,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/JS_USER_AGENTS.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/JS_USER_AGENTS.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/453e4d7879fe4f50cdd03933ae8a2500b84afc29",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/JS_USER_AGENTS.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/JS_USER_AGENTS.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/453e4d7879fe4f50cdd03933ae8a2500b84afc29",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/JS_USER_AGENTS.js"
+    }
+  },
+  {
+    "name": "TS_USER_AGENTS.ts",
+    "path": "TS_USER_AGENTS.ts",
+    "sha": "a6026cc3a7521786461b5a40473e5083a51297e1",
+    "size": 13304,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/TS_USER_AGENTS.ts?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/TS_USER_AGENTS.ts",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/a6026cc3a7521786461b5a40473e5083a51297e1",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/TS_USER_AGENTS.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/TS_USER_AGENTS.ts?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/a6026cc3a7521786461b5a40473e5083a51297e1",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/TS_USER_AGENTS.ts"
+    }
+  },
+  {
+    "name": "USER_AGENTS.js",
+    "path": "USER_AGENTS.js",
+    "sha": "453e4d7879fe4f50cdd03933ae8a2500b84afc29",
+    "size": 41207,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/USER_AGENTS.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/USER_AGENTS.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/453e4d7879fe4f50cdd03933ae8a2500b84afc29",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/USER_AGENTS.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/USER_AGENTS.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/453e4d7879fe4f50cdd03933ae8a2500b84afc29",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/USER_AGENTS.js"
+    }
+  },
+  {
+    "name": "ZooFaker_Necklace.js",
+    "path": "ZooFaker_Necklace.js",
+    "sha": "9c0421a16e995016cb06d0b064938ba32bcafaa1",
+    "size": 34999,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/ZooFaker_Necklace.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/ZooFaker_Necklace.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/9c0421a16e995016cb06d0b064938ba32bcafaa1",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/ZooFaker_Necklace.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/ZooFaker_Necklace.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/9c0421a16e995016cb06d0b064938ba32bcafaa1",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/ZooFaker_Necklace.js"
+    }
+  },
+  {
+    "name": "cleancart_activity.js",
+    "path": "cleancart_activity.js",
+    "sha": "1eb92a825d7d721cd640711a9935cb3b4102ba38",
+    "size": 8150,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/cleancart_activity.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/cleancart_activity.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/1eb92a825d7d721cd640711a9935cb3b4102ba38",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/cleancart_activity.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/cleancart_activity.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/1eb92a825d7d721cd640711a9935cb3b4102ba38",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/cleancart_activity.js"
+    }
+  },
+  {
+    "name": "function.json",
+    "path": "function.json",
+    "sha": "b6c7372d4a7b3a95d2f0563c7f2843ec3ee7cc3d",
+    "size": 6813,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/function.json?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/function.json",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/b6c7372d4a7b3a95d2f0563c7f2843ec3ee7cc3d",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/function.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/function.json?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/b6c7372d4a7b3a95d2f0563c7f2843ec3ee7cc3d",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/function.json"
+    }
+  },
+  {
+    "name": "function",
+    "path": "function",
+    "sha": "5800ac63fa88f295d4880bbe009d533d2340b672",
+    "size": 0,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/function?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/tree/master/function",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/trees/5800ac63fa88f295d4880bbe009d533d2340b672",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/function?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/trees/5800ac63fa88f295d4880bbe009d533d2340b672",
+      "html": "https://github.com/spiritLHL/dependence_scripts/tree/master/function"
+    }
+  },
+  {
+    "name": "jdCookie.js",
+    "path": "jdCookie.js",
+    "sha": "146a475c9ff29870e3ed29fdb94edfae288bdbef",
+    "size": 5073,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdCookie.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdCookie.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/146a475c9ff29870e3ed29fdb94edfae288bdbef",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/jdCookie.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdCookie.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/146a475c9ff29870e3ed29fdb94edfae288bdbef",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdCookie.js"
+    }
+  },
+  {
+    "name": "jdDreamFactoryShareCodes.js",
+    "path": "jdDreamFactoryShareCodes.js",
+    "sha": "bf7dd5d580cf09c6f077b72b84b35c6bb9b3b289",
+    "size": 1722,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdDreamFactoryShareCodes.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdDreamFactoryShareCodes.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/bf7dd5d580cf09c6f077b72b84b35c6bb9b3b289",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/jdDreamFactoryShareCodes.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdDreamFactoryShareCodes.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/bf7dd5d580cf09c6f077b72b84b35c6bb9b3b289",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdDreamFactoryShareCodes.js"
+    }
+  },
+  {
+    "name": "jdFactoryShareCodes.js",
+    "path": "jdFactoryShareCodes.js",
+    "sha": "8f1ee7ec995d03ca888b7300e15f1e2b18b150dc",
+    "size": 1666,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdFactoryShareCodes.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdFactoryShareCodes.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/8f1ee7ec995d03ca888b7300e15f1e2b18b150dc",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/jdFactoryShareCodes.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdFactoryShareCodes.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/8f1ee7ec995d03ca888b7300e15f1e2b18b150dc",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdFactoryShareCodes.js"
+    }
+  },
+  {
+    "name": "jdFruitShareCodes.js",
+    "path": "jdFruitShareCodes.js",
+    "sha": "9237ec044648c290a4a7d0b12f78b062052e8974",
+    "size": 1675,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdFruitShareCodes.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdFruitShareCodes.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/9237ec044648c290a4a7d0b12f78b062052e8974",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/jdFruitShareCodes.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdFruitShareCodes.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/9237ec044648c290a4a7d0b12f78b062052e8974",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdFruitShareCodes.js"
+    }
+  },
+  {
+    "name": "jdJxncShareCodes.js",
+    "path": "jdJxncShareCodes.js",
+    "sha": "b525a10acce8d6d9711855b73b2f40918c00dcb1",
+    "size": 2028,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdJxncShareCodes.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdJxncShareCodes.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/b525a10acce8d6d9711855b73b2f40918c00dcb1",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/jdJxncShareCodes.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdJxncShareCodes.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/b525a10acce8d6d9711855b73b2f40918c00dcb1",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdJxncShareCodes.js"
+    }
+  },
+  {
+    "name": "jdPetShareCodes.js",
+    "path": "jdPetShareCodes.js",
+    "sha": "10e2cb01dd5e914bc3c6e0ba3f7ff9a152e5d28a",
+    "size": 1636,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdPetShareCodes.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdPetShareCodes.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/10e2cb01dd5e914bc3c6e0ba3f7ff9a152e5d28a",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/jdPetShareCodes.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdPetShareCodes.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/10e2cb01dd5e914bc3c6e0ba3f7ff9a152e5d28a",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdPetShareCodes.js"
+    }
+  },
+  {
+    "name": "jdPlantBeanShareCodes.js",
+    "path": "jdPlantBeanShareCodes.js",
+    "sha": "ea4319d13c10000186f28c4faff682e2265968e4",
+    "size": 1761,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdPlantBeanShareCodes.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdPlantBeanShareCodes.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/ea4319d13c10000186f28c4faff682e2265968e4",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/jdPlantBeanShareCodes.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdPlantBeanShareCodes.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/ea4319d13c10000186f28c4faff682e2265968e4",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdPlantBeanShareCodes.js"
+    }
+  },
+  {
+    "name": "jdShareCodes.js",
+    "path": "jdShareCodes.js",
+    "sha": "160f4ce9c1bdb3a1a77ec25d0b512f2d5263e8e2",
+    "size": 2457,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdShareCodes.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdShareCodes.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/160f4ce9c1bdb3a1a77ec25d0b512f2d5263e8e2",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/jdShareCodes.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jdShareCodes.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/160f4ce9c1bdb3a1a77ec25d0b512f2d5263e8e2",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/jdShareCodes.js"
+    }
+  },
+  {
+    "name": "jd_cookie.py",
+    "path": "jd_cookie.py",
+    "sha": "7d62d5bd56513fd373389bfd407a35483f16a99d",
+    "size": 6809,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jd_cookie.py?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/jd_cookie.py",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/7d62d5bd56513fd373389bfd407a35483f16a99d",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/jd_cookie.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/jd_cookie.py?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/7d62d5bd56513fd373389bfd407a35483f16a99d",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/jd_cookie.py"
+    }
+  },
+  {
+    "name": "magic.js",
+    "path": "magic.js",
+    "sha": "c76c28fb91a99eb75da7a1a60cab7dd5e1a64b84",
+    "size": 25712,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/magic.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/magic.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/c76c28fb91a99eb75da7a1a60cab7dd5e1a64b84",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/magic.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/magic.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/c76c28fb91a99eb75da7a1a60cab7dd5e1a64b84",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/magic.js"
+    }
+  },
+  {
+    "name": "msg.py",
+    "path": "msg.py",
+    "sha": "8fd634ce872a7ec7910b400b81240bfbb68aa174",
+    "size": 3102,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/msg.py?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/msg.py",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/8fd634ce872a7ec7910b400b81240bfbb68aa174",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/msg.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/msg.py?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/8fd634ce872a7ec7910b400b81240bfbb68aa174",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/msg.py"
+    }
+  },
+  {
+    "name": "notify.py",
+    "path": "notify.py",
+    "sha": "e1691bbe585353defaed30ea9a6c30fb96140e96",
+    "size": 18345,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/notify.py?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/notify.py",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/e1691bbe585353defaed30ea9a6c30fb96140e96",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/notify.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/notify.py?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/e1691bbe585353defaed30ea9a6c30fb96140e96",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/notify.py"
+    }
+  },
+  {
+    "name": "ql.js",
+    "path": "ql.js",
+    "sha": "db832c93d97ca84e3676ddb72d04320d17b19790",
+    "size": 3401,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/ql.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/ql.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/db832c93d97ca84e3676ddb72d04320d17b19790",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/ql.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/ql.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/db832c93d97ca84e3676ddb72d04320d17b19790",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/ql.js"
+    }
+  },
+  {
+    "name": "sendNotify.js",
+    "path": "sendNotify.js",
+    "sha": "6324c28cbec8dffe7b5cf2c349d85644ced8e8f2",
+    "size": 111584,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/sendNotify.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/sendNotify.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/6324c28cbec8dffe7b5cf2c349d85644ced8e8f2",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/sendNotify.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/sendNotify.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/6324c28cbec8dffe7b5cf2c349d85644ced8e8f2",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/sendNotify.js"
+    }
+  },
+  {
+    "name": "sendNotify.py",
+    "path": "sendNotify.py",
+    "sha": "600686524eca04deab962580cd16bb9cd9f796f2",
+    "size": 13025,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/sendNotify.py?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/sendNotify.py",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/600686524eca04deab962580cd16bb9cd9f796f2",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/sendNotify.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/sendNotify.py?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/600686524eca04deab962580cd16bb9cd9f796f2",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/sendNotify.py"
+    }
+  },
+  {
+    "name": "share_code.js",
+    "path": "share_code.js",
+    "sha": "66db0c84b0c8b3c0ddaef146101f4c04d95777ee",
+    "size": 2119,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/share_code.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/share_code.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/66db0c84b0c8b3c0ddaef146101f4c04d95777ee",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/share_code.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/share_code.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/66db0c84b0c8b3c0ddaef146101f4c04d95777ee",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/share_code.js"
+    }
+  },
+  {
+    "name": "sign_graphics_validate.js",
+    "path": "sign_graphics_validate.js",
+    "sha": "e9832b8e12296ca157af86d05b4bcb0097147347",
+    "size": 86224,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/sign_graphics_validate.js?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/sign_graphics_validate.js",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/e9832b8e12296ca157af86d05b4bcb0097147347",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/sign_graphics_validate.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/sign_graphics_validate.js?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/e9832b8e12296ca157af86d05b4bcb0097147347",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/sign_graphics_validate.js"
+    }
+  },
+  {
+    "name": "utils.json",
+    "path": "utils.json",
+    "sha": "7361a875456becc72c06b6a04025a71a53c8cac3",
+    "size": 17622,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/utils.json?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/blob/master/utils.json",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/7361a875456becc72c06b6a04025a71a53c8cac3",
+    "download_url": "https://raw.githubusercontent.com/spiritLHL/dependence_scripts/master/utils.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/utils.json?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/blobs/7361a875456becc72c06b6a04025a71a53c8cac3",
+      "html": "https://github.com/spiritLHL/dependence_scripts/blob/master/utils.json"
+    }
+  },
+  {
+    "name": "utils",
+    "path": "utils",
+    "sha": "6dc1c943460a965f4d2911f88087beaad1aa3395",
+    "size": 0,
+    "url": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/utils?ref=master",
+    "html_url": "https://github.com/spiritLHL/dependence_scripts/tree/master/utils",
+    "git_url": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/trees/6dc1c943460a965f4d2911f88087beaad1aa3395",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/spiritLHL/dependence_scripts/contents/utils?ref=master",
+      "git": "https://api.github.com/repos/spiritLHL/dependence_scripts/git/trees/6dc1c943460a965f4d2911f88087beaad1aa3395",
+      "html": "https://github.com/spiritLHL/dependence_scripts/tree/master/utils"
+    }
+  }
+]
